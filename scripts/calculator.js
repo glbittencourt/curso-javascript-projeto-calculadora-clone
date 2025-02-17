@@ -1,1 +1,1 @@
-window.calculator = new CalcController();
+window.calculator = new CalcController(); // Cria uma nova instância do controlador da calculadora e a torna acessível globalmente através de window.calculator
